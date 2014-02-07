@@ -1,5 +1,5 @@
 # Base on the Fedora 20 image
-FROM mattdm/fedora-small:latest
+FROM fedora:latest
 
 MAINTAINER Marek Goldmann mgoldman@redhat.com
 
